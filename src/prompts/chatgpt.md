@@ -1,13 +1,13 @@
 ## 🧠 Prompts
 
 
-- - <Promtp:>- - 
+Promtp:
 Me ajude a criar um prompt inteligente e assertivo para criação de 5 variações para o titulo de um podcast. O tome do podcast é inteligência financeira, e o episódio fala sobre fraudes bancárias. O tom to titulo deve ser divertido, fazendo uso de trocadilhos.
 
-- - <ChatGPT:>- - 
+ChatGPT:
 Crie 5 variações criativas e descontraídas para o título de um episódio de podcast sobre inteligência financeira. O episódio aborda o tema ‘Fraudes Bancárias’ e os títulos devem conter trocadilhos inteligentes e instigantes. Eles devem ser divertidos, envolventes e capazes de despertar a curiosidade do público, sem perder a credibilidade do assunto.
 
-- - <Microsoft Copilot:>- -
+Microsoft Copilot:
 Claro! Aqui estão cinco variações criativas e descontraídas para o título do episódio sobre fraudes bancárias:
 
 Golpes à Parte: Proteja Seu Bolso com Inteligência
@@ -22,20 +22,20 @@ Golpe na Conta? Saiba Como Evitar Fraudes Bancárias
 
 Espero que esses títulos sejam instigantes e envolventes para o seu público! Se precisar de mais ajuda, estarei por aqui.
 
-- - <Promtp:>- - 
+Prompt
 Me ajude a criar um prompt inteligente e assertivo para que uma AI aja como um roteirista de podcast e escreva um roteiro para um episódio sobre inteligência financeira e como evitar fraudes e golpes bancários. 
 O tom deve ser descontraído e divertido, mas ressaltando a seriedade do tema. O roteiro deve começar com o podcaster se apresentado como um gerente experiente de banco e introduzindo o tema.
 O roteiro deve incluir as principais formas de fraudes e golpes bancários, assim como dicas de como evita-lo. 
 O roteiro deve encerrar com o podcaster se despedindo com alguma frase de efeito e prometendo voltar no próximo episódio.
 
-- - <ChatGPT:>- - 
+ChatGPT:
 "Aja como um roteirista de podcast e escreva um roteiro completo para um episódio sobre inteligência financeira e como evitar fraudes e golpes bancários. O tom deve ser descontraído e divertido, mas sem perder a seriedade do tema.
 
 O roteiro deve começar com o podcaster se apresentando como um gerente experiente de banco e introduzindo o tema de forma envolvente. Em seguida, ele deve abordar as principais formas de fraudes e golpes bancários, explicando como funcionam e dando dicas práticas para que os ouvintes evitem cair nessas armadilhas.
 
 O episódio deve encerrar com o podcaster se despedindo de forma marcante, com uma frase de efeito que reforce a importância da segurança financeira e prometendo voltar no próximo episódio com mais dicas valiosas."
 
-- - <Microsoft Copilot:>- - 
+Microsoft Copilot:
 Podcaster (Carlos): Olá, pessoal! Bem-vindos ao nosso podcast sobre inteligência financeira. Eu sou Carlos Souza, seu gerente de banco experiente, e hoje vamos falar sobre um tema crucial para todos nós: fraudes bancárias. A ideia aqui é descomplicar as finanças e garantir que o seu dinheiro esteja sempre seguro. Então, bora lá!
 
 Carlos: Para começar, vamos falar sobre os tipos mais comuns de fraudes bancárias. O primeiro da lista é o famoso phishing. Basicamente, são aqueles e-mails ou mensagens que parecem vir do seu banco, mas na verdade são golpistas tentando roubar suas informações pessoais. Eles criam páginas falsas idênticas às dos bancos para enganar você.
